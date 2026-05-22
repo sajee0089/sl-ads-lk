@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sajee0089.github.io/sl-ads-lk/sitemap.xml
